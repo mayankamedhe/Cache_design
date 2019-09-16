@@ -1,0 +1,13 @@
+
+
+1)Miss rate decreases on going from 8K unified direct-mapped L1 cache to 16K unified direct-mapped L1 cache
+2)Miss rate decreases on increasing associativity from 1 to 2 
+3)Miss rate decreases on increasing block size
+4)Miss rate increases on spliting L1 cache
+5)Miss rate of L2 is much greater than miss rate of L1
+6)Capacity miss rate of L2 is 0
+7)Miss rate of instruction of L2 is 1
+8)Graph of miss rate vs block-size decreases then increases slightly
+9)Graph of miss rate vs associativity decreases
+10)If associativity is held constant in miss rate vs associativity graph then with increase in block-size miss rate decreases
+11)If block-size is held constant in miss rate vs block-size then with increase in unified cache miss rate decreases
